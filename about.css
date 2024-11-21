@@ -3,7 +3,7 @@
 
 body {
     background-color: rgb(246, 230, 250);
-    background-image: url(background.jpg);
+    background-image: linear-gradient(rgba(251, 251, 251, 0.9), rgba(251, 251, 251, 0.9)), url(background.jpg);
     background-size: cover; 
     background-repeat: no-repeat;
     background-position: center;
